@@ -16,7 +16,7 @@ public class LetcodeTest {
 		}
 		
 		List<List<Integer>> list = test.zigzagLevelOrder(test.root);
-		System.out.println("[");
+		System.out.println("["); 
 		for(List<Integer> it: list){
 			System.out.print("  [");
 			for(int i: it){
