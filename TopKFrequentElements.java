@@ -2,7 +2,7 @@ package com.company.liao.test;
 
 import java.util.*;
 
-/**给定数组和K，找出出现次数排前K名的元素
+/**给定数组和K，找出出现次数排前K名的元素 #347
  *
  * Given a non-empty array of integers, return the k most frequent elements.
  * For example,
