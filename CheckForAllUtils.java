@@ -203,7 +203,7 @@ public class CheckForAllUtils {
     }
 
 
-    /**
+    /**缺少虚拟运营商170号段
      * 验证是否是手机格式
      */
     public static boolean isMobileNO(String mobiles) {
